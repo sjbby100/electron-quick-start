@@ -1,0 +1,12 @@
+body {
+  background-color: #ffffff; }
+
+h1 {
+  color: burlywood; }
+  h1:hover {
+    color: darkorange; }
+
+h2 {
+  color: deeppink; }
+  h2:hover {
+    color: deepskyblue; }

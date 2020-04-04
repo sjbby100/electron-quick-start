@@ -1,0 +1,15 @@
+body{
+    background-color: #ffffff;
+}
+h1{
+    color:burlywood;
+    &:hover {
+        color:darkorange
+    }
+}
+h2{
+    color: deeppink;
+    &:hover {
+        color:deepskyblue;
+    }
+}
